@@ -1,2 +1,2 @@
-# ML-Learnings
+# Learnings
 Code repository of my learnings
