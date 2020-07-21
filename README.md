@@ -1,2 +1,2 @@
 # Learnings
-Code repository of my learnings
+Code repository of my learnings ranging from basic Python to Machine Learning
